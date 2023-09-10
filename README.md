@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Soham Thodge</h1>
+<h1 align="center">Hi 👋, I'm Soham Thodge</h1>
 <h3 align="center">A frontend developer and Google Cloud Practitioner</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kronos2003&label=Profile%20views&color=0e75b6&style=flat" alt="kronos2003" /> </p>
