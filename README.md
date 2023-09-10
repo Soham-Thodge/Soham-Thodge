@@ -31,7 +31,7 @@
 
 <p><img align="left" width=38% src="https://github-readme-stats.vercel.app/api/top-langs?username=kronos2003&show_icons=true&locale=en&layout=compact" alt="kronos2003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kronos2003&show_icons=true&locale=en" alt="kronos2003" /></p>
+<p>&nbsp;<img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=kronos2003&show_icons=true&locale=en" alt="kronos2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kronos2003&" alt="kronos2003" /></p>
 
