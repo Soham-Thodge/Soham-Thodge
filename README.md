@@ -1,9 +1,9 @@
   <h1 align="center">Hi 👋, I'm Soham Thodge</h1>
 <h3 align="center">A frontend developer and Google Cloud Practitioner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kronos2003&label=Profile%20views&color=0e75b6&style=flat" alt="kronos2003" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kronos2003&label=Profile%20views&color=0e75b6&style=flat" alt="kronos2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kronos2003" alt="kronos2003" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kronos2003" alt="kronos2003" /></a> </p>
 
 - 🔭 I’m currently working on [Github Global Campus](https://education.github.com/globalcampus/student)
 
