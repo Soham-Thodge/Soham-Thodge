@@ -28,9 +28,6 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thodge_soham)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thodgesoham17@gmail.com)
 
-
-<a href="https://linkedin.com/in/soham-thodge-515676229" target="blank"><img align="center" src="linkedin.png" alt="soham-thodge-515676229" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sohamthodge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sohamthodge" height="30" width="40" /></a>
 </p>
 
 
