@@ -19,7 +19,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15lL_QHOogeZ29-_trZheCq9h4eaKddK4/view?usp=sharing](https://drive.google.com/file/d/15lL_QHOogeZ29-_trZheCq9h4eaKddK4/view?usp=sharing)
 
+#                                                     HacktoberFest 2023
 [![An image of @kronos2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kronos2003)](https://holopin.io/@kronos2003)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
