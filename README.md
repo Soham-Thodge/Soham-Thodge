@@ -25,6 +25,7 @@
 <p align="left">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-thodge-515676229)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thodge_soham)
 
 
 <a href="https://linkedin.com/in/soham-thodge-515676229" target="blank"><img align="center" src="linkedin.png" alt="soham-thodge-515676229" height="30" width="40" /></a>
