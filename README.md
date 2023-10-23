@@ -34,7 +34,7 @@
 
 
 
-
+<h1>My Stats</h1>
 <p><img align="left" width=38% src="https://github-readme-stats.vercel.app/api/top-langs?username=kronos2003&show_icons=true&locale=en&layout=compact" alt="kronos2003" /></p>
 
 <p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=kronos2003&show_icons=true&locale=en" alt="kronos2003" /></p>
