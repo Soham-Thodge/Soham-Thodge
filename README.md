@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thodge_soham" target="blank"><img align="center" src="twitter.png" alt="thodge_soham" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soham-thodge-515676229" target="blank"><img align="center" src="[linkedin.png](https://github.com/kronos2003/kronos2003/blob/8f2d9aaf5251c88a271222718396acd58128e4b4/linkedin.png)" alt="soham-thodge-515676229" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soham-thodge-515676229" target="blank"><img align="center" src=linkedin.png alt="soham-thodge-515676229" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sohamthodge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sohamthodge" height="30" width="40" /></a>
 </p>
 
