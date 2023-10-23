@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![image](https://github.com/kronos2003/kronos2003/blob/main/icons8-linkedin-96.png)](https://linkedin.com/in/soham-thodge-515676229)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-thodge-515676229)
 
 
 <a href="https://linkedin.com/in/soham-thodge-515676229" target="blank"><img align="center" src="linkedin.png" alt="soham-thodge-515676229" height="30" width="40" /></a>
